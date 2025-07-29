@@ -1,0 +1,592 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\mohit\.gradle\caches\transforms-3\741769955c1f3e208e6638e383505c41\transformed\material-1.4.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mohit\.gradle\caches\transforms-3\41bb5ee66c44deb5d5da6fc6421cfcb8\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\mohit\.gradle\caches\transforms-3\6ec43a79692f91567c4ed304ad5770a1\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:15:1-37:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\dc3c563e067098b59efe355fabf16002\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\a1e5f38da6f5f0f828e3376c53782df2\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\mohit\.gradle\caches\transforms-3\a67999de93f9d3c310f65421156908c5\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\mohit\.gradle\caches\transforms-3\f842728e6d8e80d5acd0e1c63fe2b207\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c070bd52e61670d84ea5688ea6ffc9e6\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\b1911dd0c887f5f14cd51c639deb9928\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d10f2ddd0e8a1061d517dd65ef8438f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\mohit\.gradle\caches\transforms-3\0471d54b36168b6c6a4d2de69ca4edf3\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\mohit\.gradle\caches\transforms-3\1aa5521d22a7785f6cb311b0ff04803f\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\mohit\.gradle\caches\transforms-3\e092ad8f27e535fe9fd82e897c0b874f\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\ef70a9ea12fad79e383410dd6cdf1649\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\f1740ffb98121459a64e56529771de1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\cdafb580d3b42b74b1db008e286ca858\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\97f47166ea485796952ef0e3db8ce178\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\c56065b104aadb82b0f2b3dc40fc850f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\057fa58fdc17b7483c60d7a83b3f48c3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\df4cf401734d2273a4d82f2348a8c213\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c099f579ad7540d24509c646fdc6e7c0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\fc4a8863480443be89373a34ff5c3e49\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\cb638e3bf802e2e413fd3e85e7c52bde\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\564319df2e827cad271b29c5eb26943a\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\mohit\.gradle\caches\transforms-3\ba74dccf1e0eaeeb16c82cd14a32d1df\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\a7e8645310625f78f6b47112836e8bb1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\984f406f0caafe11a5af826ecc181a65\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\29bc801385ca068d3dccf2fac7de6c8b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d49d43076863cc04e9b86929eeedb752\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\7084e5345fa38d2f377561591a214494\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\56b33e9ae06ceba6f1756ec716353795\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\e879ab645671cff80cfcb0f71238d232\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\0bacb3b4e983f60082786756cb3efa07\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\mohit\.gradle\caches\transforms-3\c155aa475e4cd903905ce22a64f9dc29\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\df95e8193cf130eb51fa849561643737\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\4d1ef080675bd1d8ccda61eca282f73a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mohit\.gradle\caches\transforms-3\f30ea766d2aea07cf507b2e7d8316cb7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d54943b3958f5f731f477ea8b5bc14aa\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\950af332e671185e4bcab7e25ec6f2db\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c40ec920ee2458d65674d788a56f1aad\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\27c3139d87f03371666c7b8f2fbc5dd1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c8278d6eaa2bb4edb65e247c8f4e88a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\88cb31e4d1902dc649390e9923a3804e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\3aa5d51484dc9cfe76074d4daf4af4fe\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+	package
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:4:2-28
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:2:1-181:12
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:3:2-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:6:2-65
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:6:19-62
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:19:2-70
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:19:19-67
+uses-permission#android.permission.INTERNET
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:20:2-64
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:20:19-61
+uses-permission#android.permission.VIBRATE
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:21:2-63
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:21:19-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:22:2-76
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:22:19-73
+application
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:25:5-180:16
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\mohit\.gradle\caches\transforms-3\741769955c1f3e208e6638e383505c41\transformed\material-1.4.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\mohit\.gradle\caches\transforms-3\741769955c1f3e208e6638e383505c41\transformed\material-1.4.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mohit\.gradle\caches\transforms-3\41bb5ee66c44deb5d5da6fc6421cfcb8\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mohit\.gradle\caches\transforms-3\41bb5ee66c44deb5d5da6fc6421cfcb8\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\dc3c563e067098b59efe355fabf16002\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\dc3c563e067098b59efe355fabf16002\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\mohit\.gradle\caches\transforms-3\a67999de93f9d3c310f65421156908c5\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\mohit\.gradle\caches\transforms-3\a67999de93f9d3c310f65421156908c5\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c070bd52e61670d84ea5688ea6ffc9e6\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c070bd52e61670d84ea5688ea6ffc9e6\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\b1911dd0c887f5f14cd51c639deb9928\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\b1911dd0c887f5f14cd51c639deb9928\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d10f2ddd0e8a1061d517dd65ef8438f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d10f2ddd0e8a1061d517dd65ef8438f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\mohit\.gradle\caches\transforms-3\ba74dccf1e0eaeeb16c82cd14a32d1df\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\mohit\.gradle\caches\transforms-3\ba74dccf1e0eaeeb16c82cd14a32d1df\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\e879ab645671cff80cfcb0f71238d232\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\e879ab645671cff80cfcb0f71238d232\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\df95e8193cf130eb51fa849561643737\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\df95e8193cf130eb51fa849561643737\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:27:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\mohit\.gradle\caches\transforms-3\ba74dccf1e0eaeeb16c82cd14a32d1df\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:28:3-35
+	android:largeHeap
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:30:3-27
+	android:icon
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:29:3-36
+	android:allowBackup
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:26:3-29
+	android:theme
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:32:3-34
+	android:usesCleartextTraffic
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:31:3-38
+activity#sbdev.apk.mcqhub.MainActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:33:3-45:14
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:39:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:36:4-38
+	android:exported
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:40:4-27
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:37:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:35:4-97
+	android:theme
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:38:4-46
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:34:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:41:4-44:20
+action#android.intent.action.MAIN
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:42:5-57
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:42:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:43:5-65
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:43:15-62
+activity#sbdev.apk.mcqhub.SignupPageActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:46:3-51:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:51:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:49:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:50:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:48:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:47:4-38
+activity#sbdev.apk.mcqhub.AdminHomeActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:52:3-57:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:57:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:55:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:56:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:54:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:53:4-37
+activity#sbdev.apk.mcqhub.StudentHomeActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:58:3-63:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:63:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:61:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:62:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:60:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:59:4-39
+activity#sbdev.apk.mcqhub.TeacherHomeActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:64:3-69:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:69:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:67:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:68:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:66:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:65:4-39
+activity#sbdev.apk.mcqhub.NewAcRqActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:70:3-75:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:75:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:73:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:74:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:72:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:71:4-35
+activity#sbdev.apk.mcqhub.AllStudentAcActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:76:3-81:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:81:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:79:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:80:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:78:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:77:4-40
+activity#sbdev.apk.mcqhub.AllTeachersAcActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:82:3-87:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:87:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:85:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:86:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:84:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:83:4-41
+activity#sbdev.apk.mcqhub.AllDeactivatedAcActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:88:3-93:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:93:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:91:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:92:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:90:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:89:4-44
+activity#sbdev.apk.mcqhub.SubjectsListActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:94:3-99:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:99:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:97:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:98:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:96:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:95:4-40
+activity#sbdev.apk.mcqhub.SubjectAddUpdateActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:100:3-105:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:105:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:103:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:104:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:102:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:101:4-44
+activity#sbdev.apk.mcqhub.LoginPageActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:106:3-111:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:111:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:109:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:110:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:108:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:107:4-37
+activity#sbdev.apk.mcqhub.AllQuestionsListActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:112:3-117:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:117:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:115:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:116:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:114:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:113:4-44
+activity#sbdev.apk.mcqhub.AddUpdateQuestionsActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:118:3-123:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:123:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:121:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:122:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:120:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:119:4-46
+activity#sbdev.apk.mcqhub.TeacherMyProfileActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:124:3-129:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:129:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:127:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:128:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:126:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:125:4-44
+activity#sbdev.apk.mcqhub.TestActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:130:3-135:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:135:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:133:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:134:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:132:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:131:4-32
+activity#sbdev.apk.mcqhub.TestActivationActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:136:3-142:48
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:141:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:139:4-38
+	android:windowSoftInputMode
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:142:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:140:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:138:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:137:4-42
+activity#sbdev.apk.mcqhub.ResultListTeacherActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:143:3-149:48
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:148:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:146:4-38
+	android:windowSoftInputMode
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:149:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:147:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:145:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:144:4-45
+activity#sbdev.apk.mcqhub.ResultListStudentActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:150:3-155:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:155:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:153:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:154:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:152:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:151:4-45
+activity#sbdev.apk.mcqhub.MyprofileStudentActivity
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:156:3-161:43
+	android:screenOrientation
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:161:4-40
+	android:hardwareAccelerated
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:159:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:160:4-43
+	android:configChanges
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:158:4-97
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:157:4-44
+meta-data#com.google.android.gms.version
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:162:3-164:60
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d10f2ddd0e8a1061d517dd65ef8438f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d10f2ddd0e8a1061d517dd65ef8438f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:164:4-57
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:163:4-49
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:165:3-169:30
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:167:4-63
+	android:exported
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:168:4-28
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:169:4-27
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:166:4-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:170:3-176:13
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:172:4-28
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:171:4-75
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:173:4-175:73
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:175:5-70
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:174:5-97
+uses-library#org.apache.http.legacy
+ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:177:3-179:31
+	android:required
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:179:4-28
+	android:name
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:178:4-41
+uses-sdk
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\mohit\.gradle\caches\transforms-3\741769955c1f3e208e6638e383505c41\transformed\material-1.4.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\mohit\.gradle\caches\transforms-3\741769955c1f3e208e6638e383505c41\transformed\material-1.4.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mohit\.gradle\caches\transforms-3\41bb5ee66c44deb5d5da6fc6421cfcb8\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mohit\.gradle\caches\transforms-3\41bb5ee66c44deb5d5da6fc6421cfcb8\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\mohit\.gradle\caches\transforms-3\6ec43a79692f91567c4ed304ad5770a1\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\mohit\.gradle\caches\transforms-3\6ec43a79692f91567c4ed304ad5770a1\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\e8844af937d499d883fc26f6b9d8dd40\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\dc3c563e067098b59efe355fabf16002\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\dc3c563e067098b59efe355fabf16002\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\a1e5f38da6f5f0f828e3376c53782df2\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\a1e5f38da6f5f0f828e3376c53782df2\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\mohit\.gradle\caches\transforms-3\a67999de93f9d3c310f65421156908c5\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\mohit\.gradle\caches\transforms-3\a67999de93f9d3c310f65421156908c5\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\mohit\.gradle\caches\transforms-3\f842728e6d8e80d5acd0e1c63fe2b207\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\mohit\.gradle\caches\transforms-3\f842728e6d8e80d5acd0e1c63fe2b207\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c070bd52e61670d84ea5688ea6ffc9e6\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c070bd52e61670d84ea5688ea6ffc9e6\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\b1911dd0c887f5f14cd51c639deb9928\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mohit\.gradle\caches\transforms-3\b1911dd0c887f5f14cd51c639deb9928\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d10f2ddd0e8a1061d517dd65ef8438f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\d10f2ddd0e8a1061d517dd65ef8438f8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\mohit\.gradle\caches\transforms-3\0471d54b36168b6c6a4d2de69ca4edf3\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\mohit\.gradle\caches\transforms-3\0471d54b36168b6c6a4d2de69ca4edf3\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\mohit\.gradle\caches\transforms-3\1aa5521d22a7785f6cb311b0ff04803f\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\mohit\.gradle\caches\transforms-3\1aa5521d22a7785f6cb311b0ff04803f\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\mohit\.gradle\caches\transforms-3\e092ad8f27e535fe9fd82e897c0b874f\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\mohit\.gradle\caches\transforms-3\e092ad8f27e535fe9fd82e897c0b874f\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\ef70a9ea12fad79e383410dd6cdf1649\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\ef70a9ea12fad79e383410dd6cdf1649\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\f1740ffb98121459a64e56529771de1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\f1740ffb98121459a64e56529771de1b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\cdafb580d3b42b74b1db008e286ca858\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\cdafb580d3b42b74b1db008e286ca858\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\97f47166ea485796952ef0e3db8ce178\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\97f47166ea485796952ef0e3db8ce178\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\c56065b104aadb82b0f2b3dc40fc850f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\c56065b104aadb82b0f2b3dc40fc850f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\057fa58fdc17b7483c60d7a83b3f48c3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\057fa58fdc17b7483c60d7a83b3f48c3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\df4cf401734d2273a4d82f2348a8c213\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\df4cf401734d2273a4d82f2348a8c213\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c099f579ad7540d24509c646fdc6e7c0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c099f579ad7540d24509c646fdc6e7c0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\fc4a8863480443be89373a34ff5c3e49\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\fc4a8863480443be89373a34ff5c3e49\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\cb638e3bf802e2e413fd3e85e7c52bde\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\cb638e3bf802e2e413fd3e85e7c52bde\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\564319df2e827cad271b29c5eb26943a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\564319df2e827cad271b29c5eb26943a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\mohit\.gradle\caches\transforms-3\ba74dccf1e0eaeeb16c82cd14a32d1df\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\mohit\.gradle\caches\transforms-3\ba74dccf1e0eaeeb16c82cd14a32d1df\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\a7e8645310625f78f6b47112836e8bb1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\a7e8645310625f78f6b47112836e8bb1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\984f406f0caafe11a5af826ecc181a65\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\984f406f0caafe11a5af826ecc181a65\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\29bc801385ca068d3dccf2fac7de6c8b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\mohit\.gradle\caches\transforms-3\29bc801385ca068d3dccf2fac7de6c8b\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d49d43076863cc04e9b86929eeedb752\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d49d43076863cc04e9b86929eeedb752\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\7084e5345fa38d2f377561591a214494\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\7084e5345fa38d2f377561591a214494\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\56b33e9ae06ceba6f1756ec716353795\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\56b33e9ae06ceba6f1756ec716353795\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\e879ab645671cff80cfcb0f71238d232\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\mohit\.gradle\caches\transforms-3\e879ab645671cff80cfcb0f71238d232\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\0bacb3b4e983f60082786756cb3efa07\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\mohit\.gradle\caches\transforms-3\0bacb3b4e983f60082786756cb3efa07\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\mohit\.gradle\caches\transforms-3\c155aa475e4cd903905ce22a64f9dc29\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\mohit\.gradle\caches\transforms-3\c155aa475e4cd903905ce22a64f9dc29\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\df95e8193cf130eb51fa849561643737\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mohit\.gradle\caches\transforms-3\df95e8193cf130eb51fa849561643737\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\4d1ef080675bd1d8ccda61eca282f73a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\4d1ef080675bd1d8ccda61eca282f73a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mohit\.gradle\caches\transforms-3\f30ea766d2aea07cf507b2e7d8316cb7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mohit\.gradle\caches\transforms-3\f30ea766d2aea07cf507b2e7d8316cb7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d54943b3958f5f731f477ea8b5bc14aa\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\mohit\.gradle\caches\transforms-3\d54943b3958f5f731f477ea8b5bc14aa\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\950af332e671185e4bcab7e25ec6f2db\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mohit\.gradle\caches\transforms-3\950af332e671185e4bcab7e25ec6f2db\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c40ec920ee2458d65674d788a56f1aad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c40ec920ee2458d65674d788a56f1aad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\27c3139d87f03371666c7b8f2fbc5dd1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\27c3139d87f03371666c7b8f2fbc5dd1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c8278d6eaa2bb4edb65e247c8f4e88a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\c8278d6eaa2bb4edb65e247c8f4e88a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\88cb31e4d1902dc649390e9923a3804e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\88cb31e4d1902dc649390e9923a3804e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\3aa5d51484dc9cfe76074d4daf4af4fe\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\mohit\.gradle\caches\transforms-3\3aa5d51484dc9cfe76074d4daf4af4fe\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+		ADDED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+		INJECTED from D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:15:17-124
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113

@@ -1,0 +1,413 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="sbdev.apk.mcqhub"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:6:2-65
+11-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:6:19-62
+12    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+12-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+12-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+13    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+13-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+13-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+14    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+14-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+14-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+15    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+15-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+15-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+16    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+16-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+16-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+17    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+17-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+17-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+18    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+18-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+18-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+19    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+19-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+19-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+20    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+20-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+20-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+21    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+21-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+21-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+22    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+22-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+22-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+23    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+23-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:2-73
+23-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:7:19-70
+24    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+24-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:19:2-70
+24-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:19:19-67
+25    <uses-permission android:name="android.permission.INTERNET" />
+25-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:20:2-64
+25-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:20:19-61
+26    <uses-permission android:name="android.permission.VIBRATE" />
+26-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:21:2-63
+26-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:21:19-60
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:22:2-76
+27-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:22:19-73
+28    <uses-permission android:name="android.permission.VIBRATE" />
+28-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:21:2-63
+28-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:21:19-60
+29
+30    <application
+30-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:25:5-180:16
+31        android:allowBackup="true"
+31-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:26:3-29
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.5.0] C:\Users\mohit\.gradle\caches\transforms-3\ba74dccf1e0eaeeb16c82cd14a32d1df\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@drawable/app_icon"
+34-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:29:3-36
+35        android:label="@string/app_name"
+35-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:28:3-35
+36        android:largeHeap="true"
+36-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:30:3-27
+37        android:requestLegacyExternalStorage="true"
+37-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:27:9-52
+38        android:testOnly="true"
+39        android:theme="@style/AppTheme"
+39-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:32:3-34
+40        android:usesCleartextTraffic="true" >
+40-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:31:3-38
+41        <activity
+41-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:33:3-45:14
+42            android:name="sbdev.apk.mcqhub.MainActivity"
+42-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:34:4-32
+43            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+43-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:35:4-97
+44            android:exported="true"
+44-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:40:4-27
+45            android:hardwareAccelerated="true"
+45-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:36:4-38
+46            android:screenOrientation="portrait"
+46-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:39:4-40
+47            android:supportsPictureInPicture="true"
+47-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:37:4-43
+48            android:theme="@style/AppTheme.FullScreen" >
+48-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:38:4-46
+49            <intent-filter>
+49-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:41:4-44:20
+50                <action android:name="android.intent.action.MAIN" />
+50-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:42:5-57
+50-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:42:13-54
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:43:5-65
+52-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:43:15-62
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:46:3-51:43
+56            android:name="sbdev.apk.mcqhub.SignupPageActivity"
+56-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:47:4-38
+57            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+57-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:48:4-97
+58            android:hardwareAccelerated="true"
+58-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:49:4-38
+59            android:screenOrientation="portrait"
+59-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:51:4-40
+60            android:supportsPictureInPicture="true" />
+60-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:50:4-43
+61        <activity
+61-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:52:3-57:43
+62            android:name="sbdev.apk.mcqhub.AdminHomeActivity"
+62-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:53:4-37
+63            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+63-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:54:4-97
+64            android:hardwareAccelerated="true"
+64-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:55:4-38
+65            android:screenOrientation="portrait"
+65-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:57:4-40
+66            android:supportsPictureInPicture="true" />
+66-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:56:4-43
+67        <activity
+67-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:58:3-63:43
+68            android:name="sbdev.apk.mcqhub.StudentHomeActivity"
+68-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:59:4-39
+69            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+69-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:60:4-97
+70            android:hardwareAccelerated="true"
+70-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:61:4-38
+71            android:screenOrientation="portrait"
+71-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:63:4-40
+72            android:supportsPictureInPicture="true" />
+72-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:62:4-43
+73        <activity
+73-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:64:3-69:43
+74            android:name="sbdev.apk.mcqhub.TeacherHomeActivity"
+74-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:65:4-39
+75            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+75-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:66:4-97
+76            android:hardwareAccelerated="true"
+76-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:67:4-38
+77            android:screenOrientation="portrait"
+77-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:69:4-40
+78            android:supportsPictureInPicture="true" />
+78-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:68:4-43
+79        <activity
+79-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:70:3-75:43
+80            android:name="sbdev.apk.mcqhub.NewAcRqActivity"
+80-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:71:4-35
+81            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+81-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:72:4-97
+82            android:hardwareAccelerated="true"
+82-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:73:4-38
+83            android:screenOrientation="portrait"
+83-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:75:4-40
+84            android:supportsPictureInPicture="true" />
+84-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:74:4-43
+85        <activity
+85-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:76:3-81:43
+86            android:name="sbdev.apk.mcqhub.AllStudentAcActivity"
+86-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:77:4-40
+87            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+87-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:78:4-97
+88            android:hardwareAccelerated="true"
+88-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:79:4-38
+89            android:screenOrientation="portrait"
+89-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:81:4-40
+90            android:supportsPictureInPicture="true" />
+90-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:80:4-43
+91        <activity
+91-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:82:3-87:43
+92            android:name="sbdev.apk.mcqhub.AllTeachersAcActivity"
+92-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:83:4-41
+93            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+93-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:84:4-97
+94            android:hardwareAccelerated="true"
+94-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:85:4-38
+95            android:screenOrientation="portrait"
+95-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:87:4-40
+96            android:supportsPictureInPicture="true" />
+96-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:86:4-43
+97        <activity
+97-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:88:3-93:43
+98            android:name="sbdev.apk.mcqhub.AllDeactivatedAcActivity"
+98-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:89:4-44
+99            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+99-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:90:4-97
+100            android:hardwareAccelerated="true"
+100-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:91:4-38
+101            android:screenOrientation="portrait"
+101-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:93:4-40
+102            android:supportsPictureInPicture="true" />
+102-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:92:4-43
+103        <activity
+103-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:94:3-99:43
+104            android:name="sbdev.apk.mcqhub.SubjectsListActivity"
+104-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:95:4-40
+105            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+105-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:96:4-97
+106            android:hardwareAccelerated="true"
+106-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:97:4-38
+107            android:screenOrientation="portrait"
+107-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:99:4-40
+108            android:supportsPictureInPicture="true" />
+108-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:98:4-43
+109        <activity
+109-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:100:3-105:43
+110            android:name="sbdev.apk.mcqhub.SubjectAddUpdateActivity"
+110-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:101:4-44
+111            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+111-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:102:4-97
+112            android:hardwareAccelerated="true"
+112-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:103:4-38
+113            android:screenOrientation="portrait"
+113-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:105:4-40
+114            android:supportsPictureInPicture="true" />
+114-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:104:4-43
+115        <activity
+115-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:106:3-111:43
+116            android:name="sbdev.apk.mcqhub.LoginPageActivity"
+116-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:107:4-37
+117            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+117-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:108:4-97
+118            android:hardwareAccelerated="true"
+118-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:109:4-38
+119            android:screenOrientation="portrait"
+119-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:111:4-40
+120            android:supportsPictureInPicture="true" />
+120-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:110:4-43
+121        <activity
+121-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:112:3-117:43
+122            android:name="sbdev.apk.mcqhub.AllQuestionsListActivity"
+122-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:113:4-44
+123            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+123-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:114:4-97
+124            android:hardwareAccelerated="true"
+124-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:115:4-38
+125            android:screenOrientation="portrait"
+125-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:117:4-40
+126            android:supportsPictureInPicture="true" />
+126-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:116:4-43
+127        <activity
+127-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:118:3-123:43
+128            android:name="sbdev.apk.mcqhub.AddUpdateQuestionsActivity"
+128-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:119:4-46
+129            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+129-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:120:4-97
+130            android:hardwareAccelerated="true"
+130-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:121:4-38
+131            android:screenOrientation="portrait"
+131-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:123:4-40
+132            android:supportsPictureInPicture="true" />
+132-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:122:4-43
+133        <activity
+133-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:124:3-129:43
+134            android:name="sbdev.apk.mcqhub.TeacherMyProfileActivity"
+134-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:125:4-44
+135            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+135-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:126:4-97
+136            android:hardwareAccelerated="true"
+136-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:127:4-38
+137            android:screenOrientation="portrait"
+137-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:129:4-40
+138            android:supportsPictureInPicture="true" />
+138-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:128:4-43
+139        <activity
+139-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:130:3-135:43
+140            android:name="sbdev.apk.mcqhub.TestActivity"
+140-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:131:4-32
+141            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+141-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:132:4-97
+142            android:hardwareAccelerated="true"
+142-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:133:4-38
+143            android:screenOrientation="portrait"
+143-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:135:4-40
+144            android:supportsPictureInPicture="true" />
+144-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:134:4-43
+145        <activity
+145-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:136:3-142:48
+146            android:name="sbdev.apk.mcqhub.TestActivationActivity"
+146-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:137:4-42
+147            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+147-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:138:4-97
+148            android:hardwareAccelerated="true"
+148-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:139:4-38
+149            android:screenOrientation="portrait"
+149-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:141:4-40
+150            android:supportsPictureInPicture="true"
+150-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:140:4-43
+151            android:windowSoftInputMode="stateHidden" />
+151-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:142:4-45
+152        <activity
+152-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:143:3-149:48
+153            android:name="sbdev.apk.mcqhub.ResultListTeacherActivity"
+153-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:144:4-45
+154            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+154-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:145:4-97
+155            android:hardwareAccelerated="true"
+155-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:146:4-38
+156            android:screenOrientation="portrait"
+156-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:148:4-40
+157            android:supportsPictureInPicture="true"
+157-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:147:4-43
+158            android:windowSoftInputMode="stateHidden" />
+158-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:149:4-45
+159        <activity
+159-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:150:3-155:43
+160            android:name="sbdev.apk.mcqhub.ResultListStudentActivity"
+160-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:151:4-45
+161            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+161-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:152:4-97
+162            android:hardwareAccelerated="true"
+162-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:153:4-38
+163            android:screenOrientation="portrait"
+163-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:155:4-40
+164            android:supportsPictureInPicture="true" />
+164-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:154:4-43
+165        <activity
+165-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:156:3-161:43
+166            android:name="sbdev.apk.mcqhub.MyprofileStudentActivity"
+166-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:157:4-44
+167            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+167-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:158:4-97
+168            android:hardwareAccelerated="true"
+168-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:159:4-38
+169            android:screenOrientation="portrait"
+169-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:161:4-40
+170            android:supportsPictureInPicture="true" />
+170-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:160:4-43
+171
+172        <meta-data
+172-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:162:3-164:60
+173            android:name="com.google.android.gms.version"
+173-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:163:4-49
+174            android:value="@integer/google_play_services_version" />
+174-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:164:4-57
+175
+176        <provider
+176-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:165:3-169:30
+177            android:name="com.google.firebase.provider.FirebaseInitProvider"
+177-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:166:4-68
+178            android:authorities="sbdev.apk.mcqhub.firebaseinitprovider"
+178-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:167:4-63
+179            android:directBootAware="true"
+179-->[com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+180            android:exported="false"
+180-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:168:4-28
+181            android:initOrder="100" />
+181-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:169:4-27
+182
+183        <service
+183-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:170:3-176:13
+184            android:name="com.google.firebase.components.ComponentDiscoveryService"
+184-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:171:4-75
+185            android:directBootAware="true"
+185-->[com.google.firebase:firebase-common:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\7a7d777d9075f5f58f40498e582dfc2e\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+186            android:exported="false" >
+186-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:172:4-28
+187            <meta-data
+187-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:173:4-175:73
+188                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+188-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:174:5-97
+189                android:value="com.google.firebase.components.ComponentRegistrar" />
+189-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:175:5-70
+190            <meta-data
+190-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:14:13-16:85
+191                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+191-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:15:17-124
+192                android:value="com.google.firebase.components.ComponentRegistrar" />
+192-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\mohit\.gradle\caches\transforms-3\21e86be26d34cb22a1ad25a3cae46d31\transformed\jetified-firebase-database-ktx-20.2.2\AndroidManifest.xml:16:17-82
+193            <meta-data
+193-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+194                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+194-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+195                android:value="com.google.firebase.components.ComponentRegistrar" />
+195-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\mohit\.gradle\caches\transforms-3\816e3f2fb30e822c27346ef48824db4b\transformed\jetified-firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+196        </service>
+197
+198        <uses-library
+198-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:177:3-179:31
+199            android:name="org.apache.http.legacy"
+199-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:178:4-41
+200            android:required="false" />
+200-->D:\programs\Android\New folder (2)\MCQHub\MCQHub\MCQHub\app\src\main\AndroidManifest.xml:179:4-28
+201
+202        <activity
+202-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+203            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+203-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+204            android:exported="false"
+204-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+205            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+205-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\mohit\.gradle\caches\transforms-3\eb1df443c4f6daac670118febdd9f02e\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+206    </application>
+207
+208</manifest>

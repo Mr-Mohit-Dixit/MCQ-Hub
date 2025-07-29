@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_43.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_43.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_admin_home.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/admin_home.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_dddf_3.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/dddf_3.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_teacher_list1.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/teacher_list1.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_13.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_13.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_student_list.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/student_list.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_ic_account_circle_black.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/ic_account_circle_black.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_ddd_1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/ddd_1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_result_list_teacher.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/result_list_teacher.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_eee_2.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/eee_2.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_4.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_4.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_19.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_19.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_cc6b8b903331e770b2c4b41cb72a39d9.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/cc6b8b903331e770b2c4b41cb72a39d9.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_eee.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/eee.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_admin_all_teacher_ac.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/admin_all_teacher_ac.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_ghs_3.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/ghs_3.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_21.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_21.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images43.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images43.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_hag.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/hag.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_main.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/main.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_12.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_12.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_test.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/test.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_dddf_2.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/dddf_2.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_app_icon.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_image1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/image1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_44.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_44.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_wrong_mcqlist.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/wrong_mcqlist.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_custom_d_layout1.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/custom_d_layout1.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_signup_page.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/signup_page.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_30.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_30.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_account_list.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/account_list.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_default_image.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_41.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_41.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_icon.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_sfs.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/sfs.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_dddf_1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/dddf_1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_all_ques_clist.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/all_ques_clist.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_29.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_29.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_aaa1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/aaa1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_3.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_3.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_admin_add_upd_subj.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/admin_add_upd_subj.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_student_home.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/student_home.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_10.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_10.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_student_mcq_test.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/student_mcq_test.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_student_mcq.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/student_mcq.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_6.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_6.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_subject_add_update.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/subject_add_update.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_33.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_33.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_image.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/image.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_admin_new_account_rq.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/admin_new_account_rq.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_all_user_list.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/all_user_list.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_student_my_profile.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/student_my_profile.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_ghs_2.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/ghs_2.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_yshs.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/yshs.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_20.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_20.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_new_ac_rq.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/new_ac_rq.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_new_ac_rq_list.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/new_ac_rq_list.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_subjects_list.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/subjects_list.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_tes.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/tes.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_myprofile_student.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/myprofile_student.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_spinner_subjectlist.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/spinner_subjectlist.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_teacher_home.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/teacher_home.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_student_myprofile.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/student_myprofile.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_teacher_deletemcq.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/teacher_deletemcq.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_all_deactivated_ac.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/all_deactivated_ac.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_39.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_39.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_tgy_1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/tgy_1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_16.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_16.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_logo1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/logo1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_ic_add_black.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/ic_add_black.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_result_list_student.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/result_list_student.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_40.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_40.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_teacher_my_profile.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/teacher_my_profile.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_all_student_ac.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/all_student_ac.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_15.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_15.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_7.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_7.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_countdown_center.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/countdown_center.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_31.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_31.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_test_activation.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/test_activation.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_eee_1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/eee_1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_custom_d2_layout.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/custom_d2_layout.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_teu.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/teu.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_loading_page.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/loading_page.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_ghs_1.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/ghs_1.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_45.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_45.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_subject_clist.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/subject_clist.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_userlist.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/userlist.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_all_questions_list.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/all_questions_list.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_11.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_11.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_42.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_42.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_teacher_updatemcq.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/teacher_updatemcq.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_report_question_cd.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/report_question_cd.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_add_update_questions.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/add_update_questions.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_login_page.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/login_page.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_admin_all_std_ac.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/admin_all_std_ac.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_27.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_27.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_14.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_14.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_all_teachers_ac.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/all_teachers_ac.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_ddd_2.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/ddd_2.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_teacher_addmcq.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/teacher_addmcq.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_2.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_2.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/layout_admin_myprofile.xml.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/layout/admin_myprofile.xml"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_sjj.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/sjj.png"
+    },
+    {
+        "merged": "sbdev.apk.mcqhub.app-merged_res-24:/drawable-xhdpi_images_17.png.flat",
+        "source": "sbdev.apk.mcqhub.app-main-26:/drawable-xhdpi/images_17.png"
+    }
+]
