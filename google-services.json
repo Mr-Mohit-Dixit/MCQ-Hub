@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050089529591",
+    "firebase_url": "https://mcqhub-579e4-default-rtdb.firebaseio.com",
+    "project_id": "mcqhub-579e4",
+    "storage_bucket": "mcqhub-579e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050089529591:android:57c951b125eb55b62b73f2",
+        "android_client_info": {
+          "package_name": "sbdev.apk.mcqhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050089529591-rk6bcol99ek095910glqh8ouknm3j8ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oHxr4cKcCcyl0wlDxWJmbIpNeGJbgKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050089529591-rk6bcol99ek095910glqh8ouknm3j8ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
